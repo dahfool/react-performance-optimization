@@ -1,31 +1,11 @@
 ## React Performance Optimization
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
-node_modules
-/.pnp
-.pnp.js
+After going through multiple articles and watching countless hours of youtube videos, I have compiled a list of react performance optimization techniques and best practices.
 
-# testing
-/coverage
+### Videos
+- Grace Hopper Academy [Measuring and Fixing Common Bottlenecks](https://www.youtube.com/watch?v=b8IcYOV5_Rc)
+- Mallory Bulkley [Improving Performance of Your React Components](https://www.youtube.com/watch?v=y8b57Y5Q1s4)
 
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# ide
-.idea/
-.cache/
-flow-typed/
-
-dist/
+### Articles
+- Ohans Emmanuel [How to Eliminate React Performance Issues](https://medium.com/@ohansemmanuel/how-to-eliminate-react-performance-issues-a16a250c0f27)
+- João Miguel Cunha [React performance tips](https://medium.com/@joomiguelcunha/react-performance-tips-5fa199a450b2)
